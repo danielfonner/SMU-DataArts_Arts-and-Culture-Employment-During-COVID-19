@@ -4,6 +4,9 @@
 
 This repository provides the code used to analyze data from the Current Population Survey from the Census Bureau.
 
+
+## Methods
+
 Every month, the U.S. Census Bureau surveys roughly 60,000 households as part of the Current Population Survey (CPS), which provides employment data that the Bureau of Labor Statistics (BLS) uses to analyze the U.S. workforce. The survey allows for analysis of employment status, industry and occupation classifications, race, gender, and disability status, among many [other characteristics](https://www2.census.gov/programs-surveys/cps/datasets/2021/basic/2021_Basic_CPS_Public_Use_Record_Layout_plus_IO_Code_list.txt). The survey also provides the mechanism by which the National Endowment for the Arts fields the [Survey of Public Participation in the Arts](https://www.icpsr.umich.edu/web/NADAC/studies/37138) and the [Arts Basic Survey](https://www.icpsr.umich.edu/web/NADAC/studies/37972).
  
 When assessing the employment characteristics in the U.S., the BLS focuses on the [labor force](https://www.bls.gov/cps/definitions.htm#lfconcepts) in its monthly reporting, which includes individuals who are in the civilian, non-institutionalized population, ages 16 and older.  Volunteers are not included as part of the labor force definition. Additionally, the labor force only includes those who are employed, absent from a job (vacation, illness, etc.), on layoff awaiting recall, or actively looking (last 4 weeks) and available for work. 
