@@ -1,7 +1,7 @@
 # SMU-DataArts_Arts-and-Culture-Employment-During-COVID-19
 
 ### Report can be found here: COMING SOON!
-## Code to be added soon.
+### Code to be added soon.
 
 This repository provides the code used to analyze data from the Current Population Survey from the Census Bureau.
 
@@ -53,4 +53,3 @@ There are also discontinuities that surface between December and January data as
 Artist information is constrained by two components: SOC definitions of artists as defined by the NEA and CPS limitations in only including occupation codes for those in the labor force. This analysis could be recreated utilizing different SOC codes to define “artists” should the NEA definition be insufficient for certain circumstances. As this study focuses on artistic occupations as captured by the CPS, hobbyists and other non-occupational artists are not included.
 
 And finally, throughout this report, keep in mind that the industry analysis focuses on those in the labor force as defined by the BLS above. This analysis excludes those “not in the labor force” as those respondents are not associated with specific industries in the CPS data.
-![image](https://user-images.githubusercontent.com/33093009/158415344-6900a17a-4dd9-4dbf-bd93-75ae0162fc77.png)
