@@ -1,7 +1,6 @@
 # SMU-DataArts_Arts-and-Culture-Employment-During-COVID-19
 
-### Report can be found here: COMING SOON!
-### Code to be added soon.
+### Report can be found here: COMING SOON! (Code coming soon)
 
 This repository provides the code used to analyze data from the Current Population Survey from the Census Bureau.
 
