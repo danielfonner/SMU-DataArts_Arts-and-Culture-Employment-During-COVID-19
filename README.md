@@ -30,7 +30,7 @@ To define artist occupations beyond just the arts and culture industries, the CP
 * Producers and directors (27-2012)
 * Writers and authors (27-3043)
 
-While these industry and occupation codes do capture artists and the arts and culture sector, we acknowledge that different approaches for NAICS and SOC code inclusion may exist. We have made our analysis code available on GitHub should others wish to replicate this analysis or create their own using different parameters.
+While these industry and occupation codes do capture artists and the arts and culture sector, we acknowledge that different approaches for NAICS and SOC code inclusion may exist. We have made our analysis code available in this GitHub repository should others wish to replicate this analysis or create their own using different parameters.
 
 In the section on artist demographic characteristics, we make a comparison to the general demographics of the entire United States. This analysis utilizes data from the Census’ American Community Survey (ACS) 2019 5-year estimates as a complement to the labor force data from the CPS. The Census describes the ACS as follows:
 
